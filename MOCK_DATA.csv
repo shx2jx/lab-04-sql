@@ -1,0 +1,201 @@
+id,group,last_name,age,email,city
+1,,Beevers,15,mbeevers0@examiner.com,Chartres
+2,Yellow,Sawley,75,jsawley1@eepurl.com,Nalsian Norte
+3,Blue,Attrie,61,aattrie2@pbs.org,Huajlaya
+4,Green,Birds,47,tbirds3@ow.ly,Coronda
+5,Yellow,Bilbrey,79,hbilbrey4@abc.net.au,Huangbu
+6,Blue,McQuilliam,78,amcquilliam5@cisco.com,Ihuari
+7,Blue,Saunper,67,csaunper6@usa.gov,Rakitovo
+8,Yellow,Moreby,59,gmoreby7@mozilla.org,Paris 10
+9,Green,Berthomier,23,dberthomier8@dropbox.com,Podgorica
+10,Yellow,Heddon,77,hheddon9@google.es,Krahës
+11,Blue,Edgler,31,,Shanjiao
+12,Blue,Killigrew,19,ckilligrewb@naver.com,Solna
+13,Blue,McMurty,60,cmcmurtyc@jiathis.com,El Cerrito
+14,Blue,Cragg,24,dcraggd@yale.edu,Toukh
+15,Blue,Yosevitz,37,jyosevitze@1und1.de,Pākpattan
+16,Blue,Wolfer,74,jwolferf@ezinearticles.com,Medzhibozh
+17,Blue,Gaunter,56,tgaunterg@livejournal.com,Maracaibo
+18,Blue,Cleiment,32,kcleimenth@oracle.com,Agraharam
+19,,Gilffilland,54,ggilffillandi@house.gov,Jiangxigou
+20,Blue,Cudmore,44,dcudmorej@gnu.org,Lens
+21,Green,Loosmore,67,rloosmorek@europa.eu,Aigínio
+22,Green,Hussell,57,zhusselll@psu.edu,Buenavista
+23,Red,Jaggar,56,sjaggarm@shareasale.com,Hongwŏn
+24,,Cumo,34,qcumon@webs.com,Benešov nad Černou
+25,Yellow,McDougall,68,mmcdougallo@dailymail.co.uk,Tocok
+26,Blue,Muat,30,bmuatp@nih.gov,Graksop
+27,Green,Motton,35,emottonq@ezinearticles.com,Asaita
+28,Red,Swiers,62,lswiersr@oakley.com,Bouaké
+29,Green,Tregensoe,79,ktregensoes@ca.gov,Sechelt
+30,Yellow,Greveson,16,ggrevesont@technorati.com,Gongji
+31,Red,Savatier,19,asavatieru@hp.com,As Suqaylibīyah
+32,Green,Fourman,64,rfourmanv@howstuffworks.com,Mulanay
+33,Yellow,Footitt,62,sfootittw@prnewswire.com,Łapanów
+34,Blue,Patient,50,hpatientx@rambler.ru,Cà Mau
+35,Red,Broomhall,27,kbroomhally@miitbeian.gov.cn,Khulm
+36,Yellow,Lindenfeld,72,clindenfeldz@biblegateway.com,Tongqian
+37,Red,Salery,26,rsalery10@uol.com.br,
+38,Blue,Kopman,69,rkopman11@un.org,Ditang
+39,Yellow,Simpson,44,,Rybnoye
+40,Green,Shuard,32,pshuard13@google.cn,Jingcheng
+41,Green,Yewdale,39,byewdale14@marketwatch.com,Dafeng
+42,Green,Conti,64,gconti15@webs.com,Qümong
+43,,Grellier,54,bgrellier16@theglobeandmail.com,Köln
+44,Blue,Gozzard,78,dgozzard17@tuttocitta.it,Qihama
+45,,Deighton,56,ldeighton18@last.fm,Winter Haven
+46,Blue,Hodcroft,38,mhodcroft19@toplist.cz,Hernández
+47,Red,Semon,44,csemon1a@bing.com,Kuidou
+48,Blue,Argrave,75,cargrave1b@chron.com,Sundsvall
+49,Green,Stallon,63,sstallon1c@comsenz.com,Loučná nad Desnou
+50,Green,Crannach,33,wcrannach1d@1688.com,Saint-Laurent-Blangy
+51,Green,Emmet,40,bemmet1e@indiegogo.com,Independencia
+52,Green,Coldman,55,fcoldman1f@amazonaws.com,Alabug
+53,Yellow,Godfree,64,tgodfree1g@deviantart.com,
+54,Green,Bever,59,dbever1h@gizmodo.com,Caticugan
+55,Red,Breens,37,cbreens1i@salon.com,Blois
+56,Red,Linsley,62,klinsley1j@ebay.com,Villa Aglipay
+57,Red,Gillbard,50,tgillbard1k@fastcompany.com,Edinburgh of the Seven Seas
+58,Green,Brosch,55,sbrosch1l@yellowpages.com,Katyuzhanka
+59,Blue,Spere,31,cspere1m@adobe.com,Riyadh
+60,Yellow,Trotter,49,rtrotter1n@altervista.org,Brovary
+61,Green,Middup,30,mmiddup1o@is.gd,Timbiras
+62,Blue,Rontree,21,brontree1p@geocities.com,La Ceja
+63,Green,Searchwell,68,csearchwell1q@telegraph.co.uk,Padre Bernardo
+64,Red,Hansley,54,vhansley1r@dot.gov,Inawashiro
+65,Green,Benck,25,dbenck1s@pagesperso-orange.fr,Curahkalak Tengah
+66,Green,Ashplant,67,sashplant1t@china.com.cn,Shuiji
+67,,Pykett,33,dpykett1u@blogspot.com,Chornukhyne
+68,Blue,Pusill,50,hpusill1v@usatoday.com,Xianan
+69,Blue,Greenwood,72,rgreenwood1w@flickr.com,Oklahoma City
+70,Yellow,Handrick,45,fhandrick1x@csmonitor.com,
+71,Yellow,Codron,44,,Nankai
+72,Blue,Tesoe,20,ttesoe1z@paypal.com,Bayān
+73,Red,Eastbrook,55,heastbrook20@yale.edu,Kondinskoye
+74,Blue,Broseke,38,kbroseke21@mlb.com,Jinluo
+75,Red,Bendson,67,gbendson22@netlog.com,Gongdanglegi Kulon
+76,Red,Mifflin,36,mmifflin23@linkedin.com,Delgado
+77,Green,Warmisham,28,ewarmisham24@wix.com,Otukpa
+78,Green,Kells,28,akells25@addtoany.com,Tambura
+79,Blue,Jzhakov,56,sjzhakov26@canalblog.com,Cayang
+80,Blue,Pyvis,37,spyvis27@nationalgeographic.com,Wenling
+81,Yellow,Lant,73,alant28@oracle.com,Maonon
+82,Yellow,Pyle,43,wpyle29@stanford.edu,Itaúna
+83,Red,Peizer,18,cpeizer2a@weibo.com,Luqiao
+84,Red,Fearne,35,afearne2b@reverbnation.com,Tokoname
+85,Yellow,Gillcrist,29,kgillcrist2c@tamu.edu,
+86,Yellow,O'Corhane,16,locorhane2d@sun.com,Karlstad
+87,Yellow,Cottill,22,ocottill2e@google.es,Mhango
+88,Red,Dorot,70,adorot2f@abc.net.au,Luhačovice
+89,Green,Tivolier,20,ftivolier2g@nationalgeographic.com,Mabu
+90,Yellow,Kinnach,65,hkinnach2h@gov.uk,Ccuntuma
+91,Yellow,Bailiss,18,mbailiss2i@webmd.com,Kafr Mandā
+92,Green,Wyett,33,kwyett2j@eepurl.com,Shangjie
+93,Green,Camplejohn,43,ccamplejohn2k@nhs.uk,San Francisco
+94,Blue,Wisam,35,rwisam2l@foxnews.com,Krasnyye Barrikady
+95,Yellow,Barchrameev,69,tbarchrameev2m@symantec.com,Comandante Luis Piedra Buena
+96,Blue,Kintzel,58,ckintzel2n@cdbaby.com,Condong
+97,,Dorkens,26,ldorkens2o@phpbb.com,Cigintung
+98,Red,Eddington,17,peddington2p@baidu.com,Dasi
+99,Red,Capelle,80,scapelle2q@zdnet.com,Falun
+100,Yellow,Wynrahame,30,mwynrahame2r@usgs.gov,Al Ya‘rubīyah
+101,Red,Robeiro,54,crobeiro2s@istockphoto.com,Pulorejo
+102,Yellow,Arnison,60,,Wangping
+103,Blue,Rudolph,60,grudolph2u@surveymonkey.com,Solânea
+104,Yellow,Trickett,65,atrickett2v@alibaba.com,Italó
+105,Yellow,Growcock,29,egrowcock2w@digg.com,Tanggeung Kolot
+106,Yellow,Hebblewhite,15,hhebblewhite2x@nydailynews.com,Bidbid
+107,Red,Duval,19,fduval2y@smh.com.au,Zel’va
+108,Green,Panter,16,,Järfälla
+109,Yellow,Goward,76,bgoward30@google.it,
+110,Green,Geddis,19,pgeddis31@edublogs.org,Tampere
+111,Blue,Scrinage,19,hscrinage32@census.gov,Tópaga
+112,Green,Antcliffe,77,jantcliffe33@theglobeandmail.com,Xiema
+113,Green,Vassie,76,,Lipník nad Bečvou
+114,Yellow,O'Devey,60,hodevey35@apple.com,Rafael Perazza
+115,Red,Curry,34,lcurry36@about.me,Hadabei
+116,Yellow,Satcher,46,fsatcher37@bing.com,Nässjö
+117,Green,Tomczynski,59,stomczynski38@reference.com,Pekijing
+118,,Burgoine,54,lburgoine39@nbcnews.com,Jembatandua
+119,Blue,Coorington,26,jcoorington3a@deliciousdays.com,Lazaro Cardenas
+120,Yellow,Wildman,78,twildman3b@multiply.com,Avignon
+121,Green,Goullee,14,fgoullee3c@woothemes.com,Arteni
+122,Green,Haffenden,37,ehaffenden3d@cam.ac.uk,Lestijärvi
+123,Yellow,Hortop,41,yhortop3e@cargocollective.com,Bureng
+124,Red,Deeves,56,gdeeves3f@cbslocal.com,Dayr Sāmit
+125,Blue,Cardello,57,ccardello3g@illinois.edu,Amu Gulang Baolige
+126,Green,Dominicacci,52,ddominicacci3h@deviantart.com,Al Mawşil al Jadīdah
+127,Blue,Robelin,27,rrobelin3i@cnet.com,
+128,Yellow,Evans,37,sevans3j@npr.org,Solnechnogorsk
+129,Green,Hume,80,hhume3k@illinois.edu,Longmen
+130,Yellow,Jordanson,47,jjordanson3l@netscape.com,Meiyuan
+131,Blue,De Rye Barrett,61,hderyebarrett3m@blog.com,Lanshan
+132,Red,Gomersall,74,,Neuilly-sur-Seine
+133,Green,Cant,39,kcant3o@earthlink.net,Hanfeng
+134,Red,Persich,34,kpersich3p@hubpages.com,Beigou
+135,Blue,Franca,36,nfranca3q@icio.us,
+136,Red,Bartoletti,43,nbartoletti3r@seattletimes.com,Sogod
+137,Red,McParland,38,emcparland3s@squidoo.com,Youkounkoun
+138,Blue,Hearnaman,64,nhearnaman3t@flavors.me,Obanazawa
+139,Green,Djakovic,47,adjakovic3u@fda.gov,Donghe
+140,Yellow,Nevinson,46,anevinson3v@walmart.com,Solikamsk
+141,Red,Cottesford,64,kcottesford3w@youku.com,Valtimo
+142,Yellow,Norvill,37,snorvill3x@netscape.com,Wolfville
+143,Green,Dowty,78,sdowty3y@webnode.com,Oeba
+144,,Gallie,79,egallie3z@bloomberg.com,
+145,Green,Iacovielli,79,eiacovielli40@bloomberg.com,Zhongxin
+146,Green,Mackinder,62,dmackinder41@economist.com,Bogojevo
+147,,Sheal,18,rsheal42@t.co,Ipoh
+148,Yellow,Cottey,69,ccottey43@cnbc.com,Oncativo
+149,Red,Brandrick,39,lbrandrick44@youku.com,Banggel
+150,Green,Qusklay,23,gqusklay45@sakura.ne.jp,Guder
+151,Red,Shivlin,46,cshivlin46@icq.com,Campbellton
+152,Yellow,Primak,64,rprimak47@cbc.ca,Starý Bohumín
+153,Yellow,Millthorpe,57,dmillthorpe48@yellowpages.com,
+154,Blue,Fleet,38,pfleet49@seesaa.net,Salimbalan
+155,Red,Arpe,46,farpe4a@howstuffworks.com,Shuihu
+156,Green,Balint,25,bbalint4b@go.com,Cocachacra
+157,Red,Skittreal,70,cskittreal4c@pcworld.com,Smyga
+158,Blue,Martinuzzi,60,emartinuzzi4d@tripod.com,Plaški
+159,Green,Grabham,29,ngrabham4e@discovery.com,
+160,Blue,Lashley,61,alashley4f@geocities.jp,Zhengji
+161,Yellow,Casserley,61,lcasserley4g@reuters.com,Dolno Palčište
+162,Yellow,Larenson,42,rlarenson4h@omniture.com,Bal Chirāgh
+163,Yellow,Kinforth,15,mkinforth4i@bluehost.com,Obubra
+164,Yellow,Riglar,42,criglar4j@tinyurl.com,Muang Xay
+165,Yellow,Scannell,29,mscannell4k@is.gd,Saint Louis
+166,Green,Langsbury,26,slangsbury4l@xing.com,Nandulehe
+167,Green,Scopham,46,mscopham4m@google.cn,Campamento
+168,Green,Lotwich,13,alotwich4n@buzzfeed.com,Tipo-Tipo
+169,Red,Chislett,24,,Zhongxiang
+170,Blue,Waadenburg,30,twaadenburg4p@rambler.ru,Tuti
+171,Green,Delong,50,rdelong4q@cisco.com,Okhotsk
+172,Red,Saunton,20,ssaunton4r@yelp.com,São Mateus do Sul
+173,Yellow,Anfrey,78,wanfrey4s@google.cn,Kalayemule
+174,Yellow,Jirek,18,ajirek4t@oakley.com,Hallstahammar
+175,Yellow,Stollberger,75,lstollberger4u@pen.io,San Francisco
+176,Blue,McNamee,18,cmcnamee4v@behance.net,Krasnokamsk
+177,Red,Luby,43,cluby4w@yandex.ru,Fengsheng
+178,Red,Ionnidis,18,wionnidis4x@parallels.com,Hartford
+179,Red,Merrisson,15,,Rungkam
+180,Blue,Klugel,80,aklugel4z@addtoany.com,Yumendong
+181,Blue,Stitwell,70,ostitwell50@flickr.com,Jin’e
+182,Red,Slimming,31,vslimming51@ycombinator.com,San Francisco
+183,Red,Sallans,51,,Midland
+184,Yellow,Groves,30,jgroves53@nature.com,
+185,Red,Tapson,44,dtapson54@sourceforge.net,Skënderbegas
+186,Blue,Tipperton,80,jtipperton55@rambler.ru,Sumberrejo
+187,Red,Stawell,22,mstawell56@flavors.me,Wang Yang
+188,Blue,McGragh,46,mmcgragh57@cbc.ca,Le Cannet
+189,Green,Adami,66,,Cruz das Almas
+190,Blue,Banting,63,mbanting59@cocolog-nifty.com,Shuangyang
+191,Yellow,Lantuffe,79,alantuffe5a@posterous.com,Mondragon
+192,Green,Halpine,34,chalpine5b@netlog.com,Ingeniero Guillermo N. Juárez
+193,,Louis,48,mlouis5c@hubpages.com,Cergy-Pontoise
+194,,Froude,47,cfroude5d@time.com,Basqal
+195,Yellow,Dunican,47,odunican5e@comsenz.com,Iwata
+196,Yellow,Andrez,26,landrez5f@123-reg.co.uk,Muruy
+197,Green,Londors,38,vlondors5g@usgs.gov,San Antonio
+198,Blue,Cornner,27,fcornner5h@microsoft.com,Studénka
+199,Green,Novichenko,39,rnovichenko5i@hud.gov,Sukonolo Krajan
+200,Yellow,Franzelini,62,afranzelini5j@phoca.cz,Abay
